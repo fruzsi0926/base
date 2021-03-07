@@ -2,7 +2,7 @@
 
 This is a sample application for the verification laboratory.
 
-## Getting started
+## _Getting started_
 
 * The application is implemented in Java.
 * The project can be built using [Gradle](https://gradle.org/).
@@ -20,7 +20,7 @@ To compile and run tests also execute:
 ./gradlew test
 ```
 
-## Overview
+## _Overview_
 
 ### Structure
 
@@ -46,3 +46,13 @@ The figure below illustrates this behavior using an example.
 1. As the joystick remains at a positive value, the reference speed is incremented again.
 1. However, it reaches the speed limit so in the next step it is not incremented even though the joystick still has a positive value.
 1. Later, the joystick is set to a negative position for one time unit, making the reference speed to decrease as well.
+
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+> Fusce scelerisque hendrerit risus, a feugiat sem euismod sed.
+> Cras sed mattis enim.
+
+| Név | Szín |
+| --- | ---- |
+| Lajos | lila |
+| Sándor | zöld |
+| Péter | kék |
